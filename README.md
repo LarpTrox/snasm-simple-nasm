@@ -1,6 +1,6 @@
-Hello guys, welcome to my second repo, so **LETS GET STARTED**:
-  # so SNASM:
-    Its a pack of macros I made for NASM assembly to make it simpler (pls do PR requests or forks I do want attention btw)
+Hello guys, welcome to my second repo, so **LETS GET STARTED**
+  # so SNASM
+  Its a pack of macros I made for NASM assembly to make it simpler (pls do PR requests or forks I do want attention btw)
   # Features:
-    - `print` prints defined strings
-    - `defstr` defines strings (without newline)
+  - `print` prints defined strings
+  - `defstr` defines strings (without newline)
