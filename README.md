@@ -1,4 +1,4 @@
-Hello guys, welcome to my second repo, so **LETS GET STARTED**
+Hello guys, welcome to my second repo, so **LETS GET STARTED** (showcase in test.asm (no comments))
   # so SNASM
   Its a pack of macros I made for NASM assembly to make it simpler (pls do PR requests or forks I do want attention btw)
   # Features:
