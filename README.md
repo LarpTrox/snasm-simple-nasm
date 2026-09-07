@@ -4,3 +4,6 @@ Hello guys, welcome to my second repo, so **LETS GET STARTED**
   # Features:
   - `print` prints defined strings
   - `defstr` defines strings (without newline)
+  - `defstrln` defines stings (with newline)
+  - `read` reads input, but still needs a buffer
+  - `exit` well, exits the program
