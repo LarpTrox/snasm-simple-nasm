@@ -8,3 +8,7 @@ Hello guys, welcome to my second repo, so **LETS GET STARTED** (showcase in test
   - `read` reads input, but still needs a buffer
   - `exit` well, exits the program
   - `sleep` waits (like ofc)
+  # How to assemble the test.asm:
+    ## Step 1
+    
+    
