@@ -7,3 +7,4 @@ Hello guys, welcome to my second repo, so **LETS GET STARTED**
   - `defstrln` defines stings (with newline)
   - `read` reads input, but still needs a buffer
   - `exit` well, exits the program
+  - `sleep` waits (like ofc)
